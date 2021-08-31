@@ -2,4 +2,4 @@
 
 iris <- iris
 
-head(yomero)
+head(iris)
